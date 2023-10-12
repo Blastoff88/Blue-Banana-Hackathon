@@ -1,0 +1,11 @@
+Create a new file in your folder to type this code
+
+Write a script that will take an input. The input will take names and save it to a list until there are 5 names in the list. 
+Take a second input and use this input as the index number of the item that will print at the end of the script.
+
+Requirements:
+    Will take 5 inputs and only 5 inputs
+    Saves the 5 inputs to a list
+    Uses a loop
+    Prints the correct name from the index
+    Uses two inputs
