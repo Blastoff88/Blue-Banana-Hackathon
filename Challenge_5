@@ -8,4 +8,4 @@ Requirements:
     Saves the 5 inputs to a list
     Uses a loop
     Prints the correct name from the index
-    Uses two inputs
+    Uses an input for finding the index
