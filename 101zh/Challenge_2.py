@@ -1,14 +1,16 @@
 
 while True:
     try:
-        binaryNum = int(input("Give me a binary number\n"))
+        originalNum = input("Give me a binary number\n")
+        binaryNum = int(originalNum)
         break
     except:
         print("Input a integer please")
 
+
 decimalNum = int(str(binaryNum), 2)
 
-print(str(binaryNum)+" -> "+str(decimalNum))
+print(originalNum+" -> "+str(decimalNum))
 
 
 
