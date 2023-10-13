@@ -8,7 +8,7 @@ while True:
 
 decimalNum = int(str(binaryNum), 2)
 
-print(binaryNum+" -> "+str(decimalNum))
+print(str(binaryNum)+" -> "+str(decimalNum))
 
 
 
